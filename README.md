@@ -18,5 +18,10 @@
 ![Stephen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aihewebdev&show_icons=true&theme=radical)  
 
 ---
+## ✨ Dev Quote of the Day  
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=aihewebdev&color=blue&style=flat-square)  
+
 
 💬 Open to collaboration & always learning! 🚀
